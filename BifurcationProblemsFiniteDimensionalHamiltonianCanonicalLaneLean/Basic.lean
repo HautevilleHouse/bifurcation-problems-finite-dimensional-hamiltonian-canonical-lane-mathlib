@@ -1,0 +1,2 @@
+import BifurcationProblemsFiniteDimensionalHamiltonianCanonicalLaneLean.GateLemmas
+import BifurcationProblemsFiniteDimensionalHamiltonianCanonicalLaneLean.FinalTheorem
